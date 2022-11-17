@@ -1,4 +1,4 @@
 actions:
   repo-settings:
-    hasIssues: true
+    hasIssues: false
 runChecks: true
